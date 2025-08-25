@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ## Dataset Preparation
 We use official datasets for training and evaluation. Additionally, following the challenage guideline, we used some training dataset to generate synthetic images for model training.
-Out of respect for data ownership, if you wish to access our training set, please submit your request through the competition’s official page and cc your email to yangxu2001#at#stu.xjtu.edu.cn. If your request is approved and you signed a license agreement, we will provide the download link of our training dataset.
+We generated additional training data based on the official dataset. If you would like to use these extra data for training, please contact me at yangxu2001<at>stu.xjtu.edu.cn.
 The default dataset path is:  ```/workspace/iccv2025_face_antispoofing```. All data and annoations should be placed in this path.
 
 ## Train
