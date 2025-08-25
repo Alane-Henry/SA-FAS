@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ## Dataset Preparation
 We use official datasets for training and evaluation. Additionally, following the challenage guideline, we used some training dataset to generate synthetic images for model training.
-We generated additional training data based on the official dataset. If you would like to use these extra data for training, please contact me at yangxu2001 #at# stu.xjtu.edu.cn.
+We generated additional training data based on the official dataset. If you would like to use these extra data for training, please contact us at yangxu2001 #at# stu.xjtu.edu.cn.
 The default dataset path is:  ```/workspace/iccv2025_face_antispoofing```. All data and annoations should be placed in this path.
 
 ## Train
@@ -28,6 +28,7 @@ We used pretrained [CLIP](https://github.com/openai/CLIP) ViT-L-14 as our backbo
 python train.py configs/clip_vit14_text_anchor_224.py --gpus 1
 ```
 The results will be saved in ```./output/best_results``` which conontains the models and training logs.
+Here we provide our trained result ckpt in [baiduyun](https://pan.baidu.com/s/10cPPAA9vjLcXrYWnfCrVCA?pwd=rvu3).
 
 ## Inference
 ```bash
