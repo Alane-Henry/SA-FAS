@@ -1,0 +1,114 @@
+{
+    "Live Face": [
+        "Real: live face",
+        "Real: genuine human face",
+        "Real: real image of person",
+        "Real: natural face photo",
+        "Real: living person"
+    ],
+    "Print": [
+        "Fake: printed face",
+        "Fake: face printed on paper",
+        "Fake: printed portrait for spoofing",
+        "Fake: face on printed sheet",
+        "Fake: printed face photo"
+    ],
+    "Replay": [
+        "Fake:   replayed video of face",
+        "Fake:   digital screen showing face",
+        "Fake:   screen plays face",
+        "Fake:   screen showing face",
+        "Fake:   face shown on screen"
+    ],
+    "Cutouts": [
+        "Fake:   cut out of face photo",
+        "Fake:   paper cutout of face",
+        "Fake:   image of cut paper mask",
+        "Fake:   cutout face",
+        "Fake:   spoofing attack using facial cutouts"
+    ],
+    "Transparent": [
+        "Fake:   transparent mask of face",
+        "Fake:   see-through fake face cover",
+        "Fake:   person wearing transparent facial mask",
+        "Fake:   translucent 3D face mask",
+        "Fake:   spoofing attack with transparent mask"
+    ],
+    "Plaster": [
+        "Fake:   plaster mask mimicking human face",
+        "Fake:   person wearing plaster face mask",
+        "Fake:   molded plaster face",
+        "Fake:   spoofing attack with plaster replica",
+        "Fake:   fake face made from plaster material"
+    ],
+    "Resin": [
+        "Fake:   resin mask of face",
+        "Fake:   face made from resin",
+        "Fake:   resin-based spoof mask",
+        "Fake:   rigid resin face cover",
+        "Fake:   resin 3D face for spoofing"
+    ],
+    "Attribute-Edit": [
+        "Fake:   edited features face",
+        "Fake:   manipulated face with changed attributes",
+        "Fake:   altered facial traits",
+        "Fake:   fake face with modified features",
+        "Fake:   edited face"
+    ],
+    "Face-Swap": [
+        "Fake:   swapped face",
+        "Fake:   person's face replaced",
+        "Fake:   deepfake face swap",
+        "Fake:   swapping faces with another",
+        "Fake:   replaced facial identity"
+    ],
+    "Video-Driven": [
+        "Fake:   fake face driven by movements",
+        "Fake:   face animated using another actions",
+        "Fake:   deepfake video face",
+        "Fake:   lips and expressions copied onto another face",
+        "Fake:   motion-driven facial for spoofing"
+    ],
+    "Pixel-Level": [
+        "Fake: face with pixel-level adversarial noise",
+        "Fake: added noise face photo",
+        "Fake: tiny changes of spoofying face",
+        "Fake: imperceptible changes on spoofed face",
+        "Fake: adversarial attack at pixel level"
+    ],
+    "Semantic-Level": [
+        "Fake: changed face semantically",
+        "Fake: mislead recognition face",
+        "Fake: semantic editing face",
+        "Fake: modified face with realistic visual changes",
+        "Fake: spoofed identity"
+    ],
+    "ID_Consisnt": [
+        "Fake: synthetic face",
+        "Fake: generated fake person",
+        "Fake: digitally created identity",
+        "Fake: consistent fake face",
+        "Fake: identity-consistent fake images"
+    ],
+    "Style": [
+        "Fake: generated  face  in stylized form",
+        "Fake: synthetic face with artistic filters",
+        "Fake: fake face created in style",
+        "Fake: AI-generated face with unique visual style",
+        "Fake: stylized fake person"
+    ],
+    "Prompt": [
+        "Fake:   AI-generated face by text prompt",
+        "Fake:   synthetic face by description",
+        "Fake:   image created by prompting AI model",
+        "Fake: fake person generated from language input",
+        "Fake:  artificial face "
+    ],
+    "Fake": [
+        "Fake: unreal face",
+        "Fake: artificial appearance",
+        "Fake: unreal person",
+        "Fake: simulated face",
+        "Fake: inauthentic identity"
+    ]
+}
